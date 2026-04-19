@@ -1,13 +1,15 @@
 # 👋 Mohamed Adly
 
-### 🧠 Network & Infrastructure Engineer
+### 🌐 Network & Infrastructure Engineer
+
+> Designing, securing, and optimizing reliable network systems.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech I'm familiar with
 
 <a href="https://www.cisco.com/" target="_blank">
-  <img src="https://img.shields.io/badge/CCNA-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
@@ -26,24 +28,24 @@
 
 ### 🚀 About Me
 
-I am a **Network & Infrastructure Engineer** focused on designing, securing, and optimizing scalable and reliable network systems.
+I am a **Network & Infrastructure Engineer** focused on building secure, scalable, and high-performance network environments.
 
-I have hands-on experience with:
-- CCNA networking concepts (routing, switching, VLANs, STP, FHRP, DHCP)
-- Linux system administration
-- Windows Server environments
-- Containerization using Docker
+My expertise includes:
+- CCNA concepts (Routing, Switching, VLANs, STP, FHRP, DHCP)
+- Linux system administration and troubleshooting
+- Windows Server management and services
+- Docker and container-based environments
 
-I am passionate about building stable infrastructures, solving network problems, and understanding how data flows across complex systems.
+I enjoy solving network problems, improving system reliability, and understanding how data moves across complex infrastructures.
 
-> “A strong network is the backbone of every modern system.”
+> “Networks are invisible when they are done right.”
 
 ---
 
 ### 📞 Connect with me
 
 <a href="https://linkedin.com/in/mohamed-adly-8b4844255" target="_blank">
-  <img src="https://img.shields.io/badge/IN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:MohamedAdlyAbdelmoula@gmail.com">
