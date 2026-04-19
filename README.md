@@ -1,45 +1,12 @@
-### 🛠 Tech I'm familiar with
-
-<a href="https://www.cisco.com/" target="_blank">
-  <img src="https://img.shields.io/badge/CCNA-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</a>
-
-<a href="https://www.microsoft.com/en-us/windows-server" target="_blank">
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
-
-<br/>
-
----
-
 ### 📞 Connect with me
 
 <a href="https://linkedin.com/in/mohamed-adly-8b4844255" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:MohamedAdlyAbdelmoula@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://wa.me/201128401059" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="tel:+201128401059">
-  <img src="https://img.shields.io/badge/Phone-111111?style=for-the-badge&logo=phone&logoColor=white" />
-</a>
-
----
-
 ### 🚀 About Me
 
 * **Network & Infrastructure Enthusiast:** Focused on designing, configuring, and securing scalable network systems rather than just basic setup.
