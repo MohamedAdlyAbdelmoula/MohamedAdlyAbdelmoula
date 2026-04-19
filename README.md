@@ -23,7 +23,6 @@
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
-### 🧰 Version Control
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
@@ -32,7 +31,7 @@
 <a href="https://github.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
 </a>
----
+
 
 ### 🚀 About Me
 
