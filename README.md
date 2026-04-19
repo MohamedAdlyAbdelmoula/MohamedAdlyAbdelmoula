@@ -25,11 +25,11 @@ I enjoy understanding how systems interact at scale and improving the reliabilit
 
 ## 🛠 Tech Stack
 
-### 🔹 Core Technologies
+### 🔹 Networking & Systems
 <p align="left">
-<p align="left"> <img src="https://img.shields.io/badge/CCNA-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ### 🔹 DevOps & Tools
