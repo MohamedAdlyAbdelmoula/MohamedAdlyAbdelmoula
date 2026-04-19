@@ -42,10 +42,9 @@ I enjoy solving network problems, improving system reliability, and understandin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
 </a>
 
+
 <a href="mailto:MohamedAdlyAbdelmoula@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" height="45" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="45" height="45" />
 </a>
 
-<a href="https://wa.me/201128401059" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" height="45" />
-</a>
+
