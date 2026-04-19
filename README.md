@@ -41,8 +41,6 @@ I enjoy solving network problems, improving system reliability, and understandin
 <a href="https://linkedin.com/in/mohamed-adly-8b4844255" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
 </a>
-
-
 <a href="mailto:MohamedAdlyAbdelmoula@gmail.com">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="45" height="45" />
 </a>
