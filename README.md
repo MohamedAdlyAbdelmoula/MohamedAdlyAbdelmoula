@@ -10,11 +10,15 @@ I am a **Network & Infrastructure Engineer** specialized in designing and mainta
 
 I work on bridging networking, systems, and DevOps to build stable and efficient environments that ensure seamless connectivity and reliability.
 
+In addition to infrastructure and networking, I also work with backend development technologies to build scalable and efficient server-side applications.
+
 ### 💡 What I focus on:
 - Designing and troubleshooting enterprise networks  
 - Linux system administration and performance optimization  
 - Windows Server services (AD, DNS, DHCP)  
 - Containerized environments using Docker  
+- Backend development using Node.js & Express.js  
+- Database management with MongoDB  
 - Network automation and infrastructure improvement  
 
 I enjoy understanding how systems interact at scale and improving the reliability behind the scenes of modern IT systems.
@@ -32,6 +36,14 @@ I enjoy understanding how systems interact at scale and improving the reliabilit
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
+### 🔹 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
 ### 🔹 DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" />
@@ -46,6 +58,9 @@ I enjoy understanding how systems interact at scale and improving the reliabilit
 - CCNA Concepts (Routing, Switching, VLANs, STP, FHRP, DHCP)  
 - Linux Administration & Troubleshooting  
 - Windows Server (Active Directory, DNS, DHCP)  
+- JavaScript & Node.js Backend Development  
+- REST API Development with Express.js  
+- MongoDB Database Management  
 - Docker & Containerized Environments  
 - Network Design & Optimization  
 
